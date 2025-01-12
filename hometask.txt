@@ -1,3 +1,4 @@
 2. Ветка master отличается от ветки demo тем, что в demo была добавлена ветка heat, а в master - нет. Также ветки boots
 и buttons в ветку demo мерджатся по отдельности, а в master - сливаются в одну новую boots_buttons и только потом
 мерджатся.
+4. В репозитории я вижу 8 коммитов: init, boots, README added, dots, fix readme, Merge remote-tracking branch 'origin/boots' into boots_buttons, Merge remote-tracking branch 'origin/buttons' into boots_buttons, master и demo. Также, при отправлении этого обновления, добавится еще один коммит
